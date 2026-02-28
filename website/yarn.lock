@@ -1124,14 +1124,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/linkify-it@npm:*":
-  version: 3.0.0
-  resolution: "@types/linkify-it@npm:3.0.0"
-  checksum: 10/bae2dfbfadb7c5455bb919ddb5643a5b325cea17f90d431ace0235c1715e24a4d7d4e3cffd6f95057d6fedd120d9c236b53e363780ed97214beae79be328da34
-  languageName: node
-  linkType: hard
-
-"@types/linkify-it@npm:^5":
+"@types/linkify-it@npm:*, @types/linkify-it@npm:^5":
   version: 5.0.0
   resolution: "@types/linkify-it@npm:5.0.0"
   checksum: 10/c3919044d4876f9d71d037e861745cd2485c95ac8c36a4fa67b132d4e60eb1d067e123cc7965c9cf5110eea351517d767f0d306af5e9147d6d0af87bc374ddcf
@@ -1158,14 +1151,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mdurl@npm:*":
-  version: 1.0.2
-  resolution: "@types/mdurl@npm:1.0.2"
-  checksum: 10/6a6fba0f8177a76d58f8f91eb1478061c9a0a87a4177ff69b5c316898e74086c1f6572fa5e748e3b976a6e50dfc179fab24fa8d3f57e29aa6ee18cec01358c45
-  languageName: node
-  linkType: hard
-
-"@types/mdurl@npm:^2":
+"@types/mdurl@npm:*, @types/mdurl@npm:^2":
   version: 2.0.0
   resolution: "@types/mdurl@npm:2.0.0"
   checksum: 10/78746e96c655ceed63db06382da466fd52c7e9dc54d60b12973dfdd110cae06b9439c4b90e17bb8d4461109184b3ea9f3e9f96b3e4bf4aa9fe18b6ac35f283c8
